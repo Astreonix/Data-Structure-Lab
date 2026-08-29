@@ -37,8 +37,8 @@ The main objective of this laboratory is to develop a practical understanding of
 
 By completing these four tasks, I learned how to:
 
-Understand the relationship between pointers and arrays.
-Use pointer arithmetic to access array elements.
+-Understand the relationship between pointers and arrays.
+-Use pointer arithmetic to access array elements.
 Traverse arrays using pointer increments.
 Access array elements using *(ptr + i).
 Understand how pointer offsets correspond to array positions.
